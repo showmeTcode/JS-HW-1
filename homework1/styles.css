@@ -1,0 +1,16 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+table {
+  border-collapse: collapse;
+}
+#input1 {
+  border-radius: 25px;
+}
+#cities option {
+  background-color: gray;
+  
+}
